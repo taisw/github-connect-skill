@@ -1,4 +1,4 @@
-# GitHub 连接助手（Windows 本机版）
+# 用于连接任务型ai的GitHub 连接助手（Windows 本机版）
 
 通过 GitHub REST API 完成五类任务：查仓库信息、管理仓库、追热门趋势、读代码分析、下载资产（带完整性校验）。**全 PowerShell 实现，不需要 bash / jq / git / file 命令。**
 
